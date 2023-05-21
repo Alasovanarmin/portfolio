@@ -1,0 +1,8 @@
+@include('site.partials.head')
+@include('site.partials.home')
+@include('site.partials.about')
+@include('site.partials.skill')
+@include('site.partials.work')
+@include('site.partials.portfolio')
+@include('site.partials.contact')
+@include('site.partials.foot')
